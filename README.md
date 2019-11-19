@@ -5,7 +5,7 @@ This Package is the Sam Herbert [svg loaders](https://github.com/SamHerbert/SVG-
 
 The Loaders can be previewed at:
 
-http://samherbert.net/svg-loaders
+http://elm-loaders.surge.sh/
 
 
 I've implemented all the loaders available:

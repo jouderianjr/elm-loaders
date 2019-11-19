@@ -4,7 +4,7 @@ module Loaders exposing (audio, ballTriangle, bars, circles, grid, hearts, oval,
 
 The Loaders can be previewed at:
 
-<http://samherbert.net/svg-loaders>
+<http://elm-loaders.surge.sh/>
 
 
 ## Example
