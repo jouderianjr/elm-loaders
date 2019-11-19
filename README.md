@@ -1,6 +1,6 @@
 ### Elm Loaders
 
-This Package is the Sam Herbert [ https://github.com/SamHerbert/SVG-Loaders ](svg loaders) implementation for elm
+This Package is the Sam Herbert [https://github.com/SamHerbert/SVG-Loaders](svg loaders) implementation for elm
 
 
 I've implemented all the loaders available:
