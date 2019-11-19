@@ -3,7 +3,7 @@
     "name": "jouderianjr/elm-loaders",
     "summary": "Elm version of loaders created by Sam Herbert",
     "license": "BSD-3-Clause",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Loaders"
     ],
