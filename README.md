@@ -35,7 +35,7 @@ import Loaders
 
 view : Html msg
 view =
-    div [] [ Loaders.TailSpin 40 "#ff0000" ]
+    div [] [ Loaders.tailSpin 40 "#ff0000" ]
 
 ```
 
