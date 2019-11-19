@@ -1,6 +1,6 @@
 module Loaders exposing (audio, ballTriangle, bars, circles, grid, hearts, oval, puff, rings, spinningCircles, tailSpin, threeDots)
 
-{-| This Package is the Sam Herbert [https://github.com/SamHerbert/SVG-Loaders](svg loaders) implementation for elm
+{-| This Package is the Sam Herbert [https://github.com/SamHerbert/SVG-Loaders](pure svg loaders) implementation for elm
 
 The Loaders can be previewed at:
 

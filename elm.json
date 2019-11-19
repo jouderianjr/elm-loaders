@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "jouderianjr/elm-loaders",
-    "summary": "Elm version of loaders created by Sam Herbert",
+    "summary": "Elm version of pure SVG loaders created by Sam Herbert",
     "license": "BSD-3-Clause",
     "version": "1.0.1",
     "exposed-modules": [
